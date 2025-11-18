@@ -26,3 +26,9 @@ git clone [link](https://github.com/i-shri/QuizWebsite_IITISoC-23)
 + Include more question types (e.g. multiple choice, true/false, drag-and-drop)
 + Add timer per question for challenge mode
 + Add animations or transitions to improve UX
+
+## Author
+Shreya Itlod
+* B.Tech, Mechanical Engineering | IIT Indore
+* LinkedIn Profile (http://linkedin.com/in/shreya-itlod03)
+* Email (itshreya256@gmail.com)

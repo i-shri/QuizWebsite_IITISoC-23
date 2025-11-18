@@ -15,7 +15,7 @@ Front-end only (no backend) – works with static files
 
 ## How to Use / Setup
 1. Clone this repository:
-git clone https://github.com/Poojashree27/IITISoC-23-Web-23-Quiz_Websit-main.git
+git clone [link](https://github.com/i-shri/QuizWebsite_IITISoC-23)
 
 3. Open index.html in your web browser.
 
